@@ -14,8 +14,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ebd9f30-b421-4251-ba8d-2077d6533532" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Character.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CharacterGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CharacterGeneratorApp/.idea/awsToolkit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CharacterGeneratorApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CharacterGeneratorApp/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CharacterGeneratorApp/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CharacterGeneratorApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CharacterGeneratorApp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CharacterGeneratorApp.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CharacterGeneratorApp.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Character.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Character.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharacterGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CharacterGenerator.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +41,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:gillicr7/CharacterGeneratorApp.git",
+    "accountId": "0dc870bf-beae-4cb1-b47a-21038918a773"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Character.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CharacterGenerator.cs" root0="FORCE_HIGHLIGHTING" />
